@@ -4,7 +4,9 @@ An interactive dashboard designed to analyze e-commerce sales performance, profi
 
 ## Dashboard Preview
 
-![E-Commerce Sales & Profitability Dashboard](./capture1.PNG)
+!<img width="317" height="409" alt="capture1" src="https://github.com/user-attachments/assets/209a9f00-f28d-4461-b442-70ccd237f0ba" />
+
+
 
 ## Key Insights
 
@@ -21,8 +23,4 @@ An interactive dashboard designed to analyze e-commerce sales performance, profi
 
 The dashboard provides a visual overview of e-commerce business performance and helps identify important sales and profitability trends.
 
-## Screenshot
 
-The dashboard screenshot is included in this repository as:
-
-`capture1.PNG`
